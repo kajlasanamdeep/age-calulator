@@ -1,0 +1,19 @@
+{
+  "name": "age-calulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kajlasanamdeep/age-calulator.git"
+  },
+  "author": "sanamdeep kajla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kajlasanamdeep/age-calulator/issues"
+  },
+  "homepage": "https://github.com/kajlasanamdeep/age-calulator#readme"
+}
