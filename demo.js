@@ -1,3 +1,3 @@
 const age_calculator = require('./index');
-let age = age_calculator('1994-07-19','2022-07-04');
+let age = age_calculator('2022-07-05');
 console.log(age);

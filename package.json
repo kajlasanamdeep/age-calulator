@@ -1,6 +1,6 @@
 {
   "name": "age-calulator",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kajlasanamdeep/age-calulator/issues"
   },
-  "homepage": "https://github.com/kajlasanamdeep/age-calulator#readme"
+  "homepage": "https://github.com/kajlasanamdeep/age-calulator#readme",
+  "dependencies": {
+    "age-calulator": "^1.2.0"
+  }
 }
